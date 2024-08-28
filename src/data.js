@@ -56,6 +56,42 @@ const DATA = [
     due: null,
     notes: "Upgrade React & Chakra UI",
   },
+  {
+    task: "Refactor API Endpoints",
+    status: STATUS_TESTING,
+    due: null,
+    notes: "",
+  },
+  {
+    task: "Add Documentation to API",
+    status: null,
+    due: new Date("2023/09/12"),
+    notes: "Add JS Docs to all endpoints",
+  },
+  {
+    task: "Update NPM Packages",
+    status: STATUS_IN_PROGRESS,
+    due: null,
+    notes: "Upgrade React & Chakra UI",
+  },
+  {
+    task: "Refactor API Endpoints",
+    status: STATUS_TESTING,
+    due: null,
+    notes: "",
+  },
+  {
+    task: "Add Documentation to API",
+    status: null,
+    due: new Date("2023/09/12"),
+    notes: "Add JS Docs to all endpoints",
+  },
+  {
+    task: "Update NPM Packages",
+    status: STATUS_IN_PROGRESS,
+    due: null,
+    notes: "Upgrade React & Chakra UI",
+  },
 ];
 
 export default DATA;
